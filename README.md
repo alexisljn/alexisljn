@@ -9,8 +9,7 @@ I use AI coding agents daily as a core part of my workflow — including **Claud
 ### Tech stack 
 
 #### Programming Languages
-![img](https://custom-icon-badges.demolab.com/badge/-Typescript-3178c6?logo=typescript&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Javascript-242424?logo=javascript) ![img](https://custom-icon-badges.demolab.com/badge/-Solidity-white?logo=solidity)
-
+![img](https://custom-icon-badges.demolab.com/badge/-Typescript-3178c6?logo=typescript&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Javascript-242424?logo=javascript)
 #### Frameworks / Libraries
 ![img](https://custom-icon-badges.demolab.com/badge/-Node.js-3C873A?logo=nodedotjs&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Bun-black?logo=bun&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Nest.js-e0234e?logo=nestjs&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Hono-e36002?logo=hono&logoColor=white) ![img](https://custom-icon-badges.demolab.com/badge/-Express-white?logo=express&logoColor=black) ![img](https://custom-icon-badges.demolab.com/badge/-React.js-44bcdb?logo=react&logoColor=white)
 
