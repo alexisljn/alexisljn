@@ -25,7 +25,4 @@ I use AI coding agents daily as a core part of my workflow — including **Claud
  ### Reach me on..
  <img align="left" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> **[LinkedIn](https://www.linkedin.com/in/alexis-lejeune-fullstack-web/)**
 
- <img align="left" alt="discord" width="25px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" /> **[Discord](https://discord.com/users/146933100545441792)**
-
-
  #### ⬇️ Check out some pinned repos which I've been proud to be part of ⬇️
